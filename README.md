@@ -1,1 +1,2 @@
-Hello everyone!
+- 👋 Hello, everyone! I am @Renqi Chen. 😎 
+- I’m currently pursuing my M.Sc. in Computer Science and Technology at Fudan University and looking forward to graduating in June 2026. Before this, I earned my B.Eng. in Communication Engineering from Southern University of Science and Technology (SUSTech). My current research interest lie in Neural Architecture Search (NAS).
